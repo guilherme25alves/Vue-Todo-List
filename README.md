@@ -1,24 +1,7 @@
 # todo
 
-## Project setup
+## Descrição Projeto
 ```
-yarn install
+Projeto simples para adicionar e remover Tarefas.
+Com ele podemos visualizar em forma de kanban para melhor interação com as tarefas
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
