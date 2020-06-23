@@ -11,8 +11,8 @@
           <img class="img-responsive img-logo" src="@/assets/img/task_img.jpg" alt="Logo do projeto">
         </section>
         <section class="navbar-section">
-          <a href="" class="btn btn-link">Linkedin</a>
-          <a href="" class="btn btn-link">Github</a>
+          <a href="https://www.linkedin.com/in/guilherme-alves-971208118/" class="btn btn-link">Linkedin</a>
+          <a href="https://github.com/guilherme25alves" class="btn btn-link">Github</a>
         </section>
       </header>
       <router-view class="pt-2" />
